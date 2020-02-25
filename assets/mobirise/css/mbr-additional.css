@@ -1102,6 +1102,28 @@ section.lazy-placeholder:after {
 .cid-rRq9stP966 {
   background-image: url("../../../assets/images/84455852-639222976834020-2355518256059656513-n.jpg");
 }
+.cid-rRvOXb2ehC {
+  background: #0f7699;
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background: linear-gradient(0deg, #cc2952, #0f7699);
+}
+.cid-rRvOXb2ehC .image-block {
+  margin: auto;
+}
+.cid-rRvOXb2ehC figcaption {
+  position: relative;
+}
+.cid-rRvOXb2ehC figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-rRvOXb2ehC .image-block {
+    width: 100% !important;
+  }
+}
 .cid-rRqbWdfUmP {
   background: #0f7699;
   padding-top: 60px;
